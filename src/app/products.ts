@@ -29,6 +29,11 @@ export const products = [
     name: 'Wingspan',
     price: 299,
     description: 'The most popular game of all time'
+  },
+  {
+    id: 5,
+    name: 'Merlin',
+    price: 299
   }
 ];
 
