@@ -8,21 +8,27 @@ export interface Product {
 export const products = [
   {
     id: 1,
-    name: 'Phone XL',
+    name: 'Agricola',
     price: 799,
-    description: 'A large phone with one of the best screens'
+    description: 'A Masterpiece by Uwe Rosenberg'
   },
   {
     id: 2,
-    name: 'Phone Mini',
+    name: 'Calico',
     price: 699,
-    description: 'A great phone with one of the best cameras'
+    description: 'Great game about cats and quilts'
   },
   {
     id: 3,
-    name: 'Phone Standard',
+    name: 'Indian Summer',
     price: 299,
-    description: ''
+    description: 'Best Polyomino board game'
+  },
+  {
+    id: 4,
+    name: 'Wingspan',
+    price: 299,
+    description: 'The most popular game of all time'
   }
 ];
 
