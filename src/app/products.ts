@@ -33,7 +33,8 @@ export const products = [
   {
     id: 5,
     name: 'Merlin',
-    price: 299
+    price: 299,
+    description: ''
   }
 ];
 
